@@ -1,4 +1,4 @@
-[![CircleCI](https://raw.githubusercontent.com/SJ029626/udaml/master/circl.svg)
+![CircleCI](https://raw.githubusercontent.com/SJ029626/udaml/master/circl.svg)
 ## Project Overview
 
 In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API. 
